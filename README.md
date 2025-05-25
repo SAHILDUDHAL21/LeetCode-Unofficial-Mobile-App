@@ -41,7 +41,7 @@ APK: [Download Latest APK](https://github.com/SAHILDUDHAL21/leetcode_unofficial/
 </p>
 
 ### 📖 More Details
-For a detailed breakdown of the project and development insights, check out my [LinkedIn post]().
+For a detailed breakdown of the project and development insights, check out my [LinkedIn post](https://www.linkedin.com/posts/sahil-dudhal-1b11b925a_flutter-leetcode-coding-activity-7332277346793607168-QNj3?utm_source=share&utm_medium=member_android&rcm=ACoAAD--5NUB0u1C_8ehQPhLOeEOTv2cg9PfvMI).
 
 ## 🖥️ Installation
 
